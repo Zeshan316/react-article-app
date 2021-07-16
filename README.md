@@ -5,11 +5,10 @@ This project was bootstrapped with [Create React App]).
 
 ## How to Run this
 
-1-Go to master repository\
-2-Click code and copy either ssh or https url of repository\
-3-Run git clone url_of_repository from step 2\
-4-Run npm install\
-5-Run npm start
+1-Click code and copy either ssh or https url of repository\
+2-Run git clone url_of_repository from step 2\
+3-Run npm install\
+4-Run npm start
 
 
 ## Available Scripts
