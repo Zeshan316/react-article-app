@@ -1,5 +1,5 @@
 import { articles } from "../../dummy-data/data.js";
-import { SORT_ARTICLES, MOST_LIKED, MOST_RECENT } from "../actions/article";
+import { MOST_LIKED, MOST_RECENT } from "../actions/article";
 
 
 const initialState = {
